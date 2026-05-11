@@ -1,0 +1,10 @@
+.DS_Store
+
+# Local tool caches
+.uv-cache/
+.codex-pet-runs/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example

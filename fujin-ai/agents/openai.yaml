@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fujin AI"
+  short_description: "Fujin式の思考と文体で発信を整えるスキル"
+  default_prompt: "Use $fujin-ai to rewrite this draft in Fujin style and explain the key judgment behind the edit."
+
+policy:
+  allow_implicit_invocation: true
