@@ -3,6 +3,9 @@
 # Local tool caches
 .uv-cache/
 .codex-pet-runs/
+hatch-runs/
+pet-runs/
+*-pets.zip
 
 # Environment and secrets
 .env
